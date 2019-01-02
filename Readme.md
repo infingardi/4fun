@@ -7,3 +7,5 @@ git status -> para ver quais arquivos foram adicionados ou modificados
 git add -A -> para adicionar os arquivos ao monitoramento git
 
 git log    -> para ver todos os commits (ate onde eu entendi sao comentarios sobre as mudanças)
+
+git commit -m "mensagem qualquer" -> (ate onde eu entendi sao comentarios sobre as mudanças)
