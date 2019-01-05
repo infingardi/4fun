@@ -29,3 +29,9 @@ git diff -> mostra todas as mudanças ocorridas nos arquivos
 git diff --name-only -> mostra apenas o nome dos arquivos modificados
 
 git diff nomedoarquivo -> ver apenas as mudanças no arquivo mencionado
+
+git checkout HEAD -- arquivo -> volta a mudança feita apenas no arquivo mencionado
+
+git push origin master -> envia as modificaçoes para o github
+
+.gitignore -> criar um arquivo com o este nome e colocar dentro dele todos os nomes que nao poderao aparecer no github
